@@ -1,0 +1,12 @@
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Abstractions\bin\Debug\net6.0\K2.FundsManagement.Abstractions.deps.json
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Abstractions\bin\Debug\net6.0\K2.FundsManagement.Abstractions.dll
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Abstractions\bin\Debug\net6.0\ref\K2.FundsManagement.Abstractions.dll
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Abstractions\bin\Debug\net6.0\K2.FundsManagement.Abstractions.pdb
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Abstractions\obj\Debug\net6.0\K2.FundsManagement.Abstractions.csproj.AssemblyReference.cache
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Abstractions\obj\Debug\net6.0\K2.FundsManagement.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Abstractions\obj\Debug\net6.0\K2.FundsManagement.Abstractions.AssemblyInfoInputs.cache
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Abstractions\obj\Debug\net6.0\K2.FundsManagement.Abstractions.AssemblyInfo.cs
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Abstractions\obj\Debug\net6.0\K2.FundsManagement.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Abstractions\obj\Debug\net6.0\K2.FundsManagement.Abstractions.dll
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Abstractions\obj\Debug\net6.0\ref\K2.FundsManagement.Abstractions.dll
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Abstractions\obj\Debug\net6.0\K2.FundsManagement.Abstractions.pdb

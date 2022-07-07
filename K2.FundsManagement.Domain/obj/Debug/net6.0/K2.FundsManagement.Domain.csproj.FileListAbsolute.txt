@@ -1,0 +1,15 @@
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Domain\bin\Debug\net6.0\K2.FundsManagement.Domain.deps.json
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Domain\bin\Debug\net6.0\K2.FundsManagement.Domain.dll
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Domain\bin\Debug\net6.0\ref\K2.FundsManagement.Domain.dll
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Domain\bin\Debug\net6.0\K2.FundsManagement.Domain.pdb
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Domain\bin\Debug\net6.0\K2.FundsManagement.Abstractions.dll
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Domain\bin\Debug\net6.0\K2.FundsManagement.Abstractions.pdb
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Domain\obj\Debug\net6.0\K2.FundsManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Domain\obj\Debug\net6.0\K2.FundsManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Domain\obj\Debug\net6.0\K2.FundsManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Domain\obj\Debug\net6.0\K2.FundsManagement.Domain.AssemblyInfo.cs
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Domain\obj\Debug\net6.0\K2.FundsManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Domain\obj\Debug\net6.0\K2.FundsManagement.Domain.csproj.CopyComplete
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Domain\obj\Debug\net6.0\K2.FundsManagement.Domain.dll
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Domain\obj\Debug\net6.0\ref\K2.FundsManagement.Domain.dll
+C:\Users\aliza\source\repos\GitHub-N3O\FundsManagement\K2.FundsManagement.Domain\obj\Debug\net6.0\K2.FundsManagement.Domain.pdb
