@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "K2.FundsManagement.WebApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "docs",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:19257"
+    }
+  }
+}
