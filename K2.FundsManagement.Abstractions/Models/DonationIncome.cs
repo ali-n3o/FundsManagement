@@ -15,14 +15,14 @@ public class DonationIncome {
 
     public string AllocationType { get; set; }
     
-    public int Beneficiary { get; set; }
-    public int Project { get; set; }
+    public string Beneficiary { get; set; }
+    public string Project { get; set; }
     
     public int Amount { get; set; }
-    public int Admin { get; set; }
-    public int FundRaising { get; set; }
-    public int ProjectSupport { get; set; }
-    public int Reserves { get; set; }
+    public double Admin { get; set; }
+    public double FundRaising { get; set; }
+    public double ProjectSupport { get; set; }
+    public double Reserves { get; set; }
     
-    public int Balance { get; set; }
+    public double Balance { get; set; }
 }
