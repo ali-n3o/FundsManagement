@@ -54,6 +54,6 @@ public partial class FakeDonationIncomes : FakeDataCollection<DonationIncome> {
         
 
 
-        return Faker.Generate(100);
+        return Faker.Generate(500);
     }
 }

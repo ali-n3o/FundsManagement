@@ -19,14 +19,17 @@ public class Startup : WebStartup {
     public override void ConfigureServices(IConfiguration configuration, IWebHostEnvironment hostingEnvironment, IServiceCollection services) {
         services.AddDbContext<DonationIncomeContext>(options =>
             options.UseSqlServer(configuration.GetConnectionString("DonationIncomeContext")));
+        
+        services.AddDbContext<DonationIncome2Context>(options =>
+            options.UseSqlServer(configuration.GetConnectionString("DonationIncome2Context")));
     }
 
     public override void Configure(IConfiguration configuration, IWebHostEnvironment hostingEnvironment, IApplicationBuilder app) {
-        using var scope = app.ApplicationServices.CreateScope();
-        var services = scope.ServiceProvider;
-
-        var context = services.GetRequiredService<DonationIncomeContext>();
-        context.Database.EnsureCreated();
+        // using var scope = app.ApplicationServices.CreateScope();
+        // var services = scope.ServiceProvider;
+        //
+        // var context = services.GetRequiredService<DonationIncomeContext>();
+        // context.Database.EnsureCreated();
         //DbInitializer.Initialize(context);
     }
 }

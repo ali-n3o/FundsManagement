@@ -1,7 +1,4 @@
-﻿using NodaTime;
-using System.Diagnostics.CodeAnalysis;
-
-namespace K2.FundsManagement.Abstractions.Models; 
+﻿namespace K2.FundsManagement.Abstractions.Models; 
 
 public class DonationIncome {
     public int ID { get; set; }
