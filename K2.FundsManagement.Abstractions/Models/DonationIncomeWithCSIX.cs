@@ -2,7 +2,7 @@
 
 namespace K2.FundsManagement.Abstractions.Models; 
 
-public class DonationIncome2 {
+public class DonationIncomeWithCSIX {
     public int ID { get; set; }
     
     public DateTime Date { get; set; }
@@ -30,7 +30,7 @@ public class DonationIncome2 {
     
     [ForeignKey("BeneficiaryId")]
     public Beneficiary Beneficiary { get; set; }
-    public Int16 BeneficiaryId { get; set; }
+    public Int16? BeneficiaryId { get; set; }
     
     [ForeignKey("ProjectId")]
     public Project Project { get; set; }
@@ -43,39 +43,4 @@ public class DonationIncome2 {
     public double Reserves { get; set; }
     
     public double Balance { get; set; }
-}
-
-public class Location {
-    public Int16 ID { get; set; }
-    public string Name { get; set; }
-}
-
-public class Theme {
-    public Int16 ID { get; set; }
-    public string Name { get; set; }
-}
-
-public class Stipulation {
-    public Int16 ID { get; set; }
-    public string Name { get; set; }
-}
-
-public class DonationItem {
-    public Int16 ID { get; set; }
-    public string Name { get; set; }
-}
-
-public class AllocationType {
-    public Int16 ID { get; set; }
-    public string Name { get; set; }
-}
-
-public class Beneficiary {
-    public Int16 ID { get; set; }
-    public string Name { get; set; }
-}
-
-public class Project {
-    public Int16 ID { get; set; }
-    public string Name { get; set; }
 }

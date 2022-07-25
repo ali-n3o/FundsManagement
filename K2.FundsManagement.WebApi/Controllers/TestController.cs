@@ -22,7 +22,7 @@ public class TestController : DefaultApiController {
         var context = _componentContext.Resolve<DonationIncomeContext>();
         var faker = _componentContext.Resolve<IFakeDataCollection<DonationIncome>>();
 
-        for (int i = 0; i < 1000; i++) {
+        for (int i = 0; i < 10; i++) {
             var items = faker.Generate();
             context.DonationIncome.AddRange(items);
             context.SaveChanges();
@@ -33,9 +33,9 @@ public class TestController : DefaultApiController {
     
     [HttpGet("GetData")]
     public ActionResult GetData() {
-        var context = _componentContext.Resolve<DonationIncome2Context>();
+        var context = _componentContext.Resolve<DonationIncomeContext>();
 
-        var queryable = context.DonationIncome.Take(10)
+        var queryable = context.DonationIncomeWithJoins.Take(10)
                                .Select(d => new {
                                     d.Location.Name,
                                     d.Amount
